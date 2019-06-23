@@ -1,2 +1,2 @@
-# -
-系统建模与仿真实验课的代码
+# Code of System Modeling and Simulation
+- 本代码为系统建模与仿真课三次实验的内容
